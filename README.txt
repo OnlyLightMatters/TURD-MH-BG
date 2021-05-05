@@ -2,8 +2,8 @@ A word from our sponsor...
 
 To install, pay attention to the dependencies :
 0/ Install Module Manager if not already done yet https://forum.kerbalspaceprogram.com/index.php?/topic/50533-141-module-manager-307-may-5th-2018-its-dangerous-to-go-alone-take-those-cats-with-you/
-1/ Install Textures Unlimited
-2/ Install TURD
+1/ Install Textures Unlimited https://github.com/shadowmage45/TexturesUnlimited/releases
+2/ Install TURD check https://forum.kerbalspaceprogram.com/index.php?/topic/174188-111x-textures-unlimited-recolour-depot/
 3/ Install this patch with simply placing the files so it matches the TURD folder residing within the GameData directory of your KSP install.
 
 
