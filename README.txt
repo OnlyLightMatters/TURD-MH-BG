@@ -43,7 +43,11 @@ What TURD does not do is applying these effects to Making History and Breaking G
 I plan to provide both *It's all Shiny* and Recolouring effects on all DLC parts. My Statement of Work is the following:
 1- Provide It's All Shiny for Making History parts
 2- Provide It's All Shiny for Breaking Ground parts
-3- Provide Recolouring ability It's All Shiny for Making History parts
+3- Provide Recolouring ability for Making History parts
+4- Provide Recolouring ability for Breaking Ground parts
+
+I estimate 1 and 2 represent 10% of the global work.
+
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
