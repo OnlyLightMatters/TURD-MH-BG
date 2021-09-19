@@ -1,0 +1,4 @@
+Release notes for updates
+
+- Naming convention has changed in the 1110_MH_Recolour file
+- Added missing White and Yellow Variant for 1.5 RCS tank
